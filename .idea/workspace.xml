@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d83e897c-393a-4a14-b8ea-c02d2501ab5a" name="Changes" comment="delete deleted everything except README.md">
-      <change afterPath="$PROJECT_DIR$/building_pyr_generator/exercise_thirteen.js" afterDir="false" />
+    <list default="true" id="d83e897c-393a-4a14-b8ea-c02d2501ab5a" name="Changes" comment="add exercise_thirteen.js and delete workspace.xml">
+      <change afterPath="$PROJECT_DIR$/building_pyr_generator/step_14.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/building_pyr_generator/exercise_thirteen.js" beforeDir="false" afterPath="$PROJECT_DIR$/building_pyr_generator/step_13.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1767434753288</updated>
       <workItem from="1767434754970" duration="2484000" />
-      <workItem from="1767613353423" duration="722000" />
+      <workItem from="1767613353423" duration="1391000" />
     </task>
     <task id="LOCAL-00001" summary="changed README.md">
       <option name="closed" value="true" />
@@ -107,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767613523524</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add exercise_thirteen.js and delete workspace.xml">
+      <option name="closed" value="true" />
+      <created>1767614301525</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767614301526</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +128,8 @@
     <MESSAGE value="add .gitignore" />
     <MESSAGE value="add variable.js" />
     <MESSAGE value="delete deleted everything except README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete deleted everything except README.md" />
+    <MESSAGE value="add exercise_thirteen.js" />
+    <MESSAGE value="add exercise_thirteen.js and delete workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="add exercise_thirteen.js and delete workspace.xml" />
   </component>
 </project>
