@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d83e897c-393a-4a14-b8ea-c02d2501ab5a" name="Changes" comment="add step_19.js">
-      <change afterPath="$PROJECT_DIR$/building_pyr_generator/step_20.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d83e897c-393a-4a14-b8ea-c02d2501ab5a" name="Changes" comment="add step_20.js" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1767434753288</updated>
       <workItem from="1767434754970" duration="2484000" />
-      <workItem from="1767613353423" duration="2754000" />
+      <workItem from="1767613353423" duration="3143000" />
     </task>
     <task id="LOCAL-00001" summary="changed README.md">
       <option name="closed" value="true" />
@@ -179,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767615827208</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add step_20.js">
+      <option name="closed" value="true" />
+      <created>1767616137630</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1767616137630</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +203,7 @@
     <MESSAGE value="add step_17.js" />
     <MESSAGE value="add step_18.js" />
     <MESSAGE value="add step_19.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add step_19.js" />
+    <MESSAGE value="add step_20.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add step_20.js" />
   </component>
 </project>
