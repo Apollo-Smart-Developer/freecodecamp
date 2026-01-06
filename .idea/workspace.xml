@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d83e897c-393a-4a14-b8ea-c02d2501ab5a" name="Changes" comment="add step_30.js">
-      <change afterPath="$PROJECT_DIR$/building_pyr_generator/step_31.js" afterDir="false" />
+    <list default="true" id="d83e897c-393a-4a14-b8ea-c02d2501ab5a" name="Changes" comment="add step_32.js">
+      <change afterPath="$PROJECT_DIR$/building_pyr_generator/step_33.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +23,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -86,7 +86,7 @@
       <updated>1767434753288</updated>
       <workItem from="1767434754970" duration="2484000" />
       <workItem from="1767613353423" duration="3143000" />
-      <workItem from="1767710945785" duration="3573000" />
+      <workItem from="1767710945785" duration="3987000" />
     </task>
     <task id="LOCAL-00001" summary="changed README.md">
       <option name="closed" value="true" />
@@ -272,7 +272,23 @@
       <option name="project" value="LOCAL" />
       <updated>1767716833313</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="add step_31.js">
+      <option name="closed" value="true" />
+      <created>1767716978181</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1767716978181</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add step_32.js">
+      <option name="closed" value="true" />
+      <created>1767717041629</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1767717041629</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,6 +318,8 @@
     <MESSAGE value="add step_28.js" />
     <MESSAGE value="add step_29.js" />
     <MESSAGE value="add step_30.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add step_30.js" />
+    <MESSAGE value="add step_31.js" />
+    <MESSAGE value="add step_32.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add step_32.js" />
   </component>
 </project>
