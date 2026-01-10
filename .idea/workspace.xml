@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d83e897c-393a-4a14-b8ea-c02d2501ab5a" name="Changes" comment="add step_43.js">
-      <change afterPath="$PROJECT_DIR$/building_pyr_generator/step_44.js" afterDir="false" />
+    <list default="true" id="d83e897c-393a-4a14-b8ea-c02d2501ab5a" name="Changes" comment="add step_44.js">
+      <change afterPath="$PROJECT_DIR$/building_pyr_generator/step_45.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +88,7 @@
       <workItem from="1767613353423" duration="3143000" />
       <workItem from="1767710945785" duration="5961000" />
       <workItem from="1767738517951" duration="90000" />
-      <workItem from="1768071458055" duration="3284000" />
+      <workItem from="1768071458055" duration="3725000" />
     </task>
     <task id="LOCAL-00001" summary="changed README.md">
       <option name="closed" value="true" />
@@ -370,14 +370,21 @@
       <option name="project" value="LOCAL" />
       <updated>1768079010031</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="add step_44.js">
+      <option name="closed" value="true" />
+      <created>1768079180223</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1768079180223</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add step_18.js" />
     <MESSAGE value="add step_19.js" />
     <MESSAGE value="add step_20.js" />
     <MESSAGE value="add step_21.js" />
@@ -402,6 +409,7 @@
     <MESSAGE value="add step_40.js" />
     <MESSAGE value="add step_41.js" />
     <MESSAGE value="add step_43.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add step_43.js" />
+    <MESSAGE value="add step_44.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add step_44.js" />
   </component>
 </project>
