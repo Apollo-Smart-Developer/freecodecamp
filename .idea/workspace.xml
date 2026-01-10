@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d83e897c-393a-4a14-b8ea-c02d2501ab5a" name="Changes" comment="add step_44.js">
-      <change afterPath="$PROJECT_DIR$/building_pyr_generator/step_45.js" afterDir="false" />
+    <list default="true" id="d83e897c-393a-4a14-b8ea-c02d2501ab5a" name="Changes" comment="add step_46.js">
+      <change afterPath="$PROJECT_DIR$/building_pyr_generator/step_47.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,25 +37,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Node.js.step_22.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.variables.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.step_22.js.executor": "Run",
+    "Node.js.step_45.js.executor": "Run",
+    "Node.js.variables.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Node.js.step_45.js">
     <configuration name="step_22.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/building_pyr_generator/step_22.js" working-dir="$PROJECT_DIR$/building_pyr_generator">
       <method v="2" />
@@ -92,7 +93,7 @@
       <workItem from="1767613353423" duration="3143000" />
       <workItem from="1767710945785" duration="5961000" />
       <workItem from="1767738517951" duration="90000" />
-      <workItem from="1768071458055" duration="3725000" />
+      <workItem from="1768071458055" duration="4114000" />
     </task>
     <task id="LOCAL-00001" summary="changed README.md">
       <option name="closed" value="true" />
@@ -382,15 +383,29 @@
       <option name="project" value="LOCAL" />
       <updated>1768079180223</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="add step_45.js">
+      <option name="closed" value="true" />
+      <created>1768079500193</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1768079500193</updated>
+    </task>
+    <task id="LOCAL-00038" summary="add step_46.js">
+      <option name="closed" value="true" />
+      <created>1768079679660</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1768079679660</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add step_19.js" />
-    <MESSAGE value="add step_20.js" />
     <MESSAGE value="add step_21.js" />
     <MESSAGE value="add step_22.js" />
     <MESSAGE value="add step_23.js" />
@@ -414,6 +429,8 @@
     <MESSAGE value="add step_41.js" />
     <MESSAGE value="add step_43.js" />
     <MESSAGE value="add step_44.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add step_44.js" />
+    <MESSAGE value="add step_45.js" />
+    <MESSAGE value="add step_46.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add step_46.js" />
   </component>
 </project>
