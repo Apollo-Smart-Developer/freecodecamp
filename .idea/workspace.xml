@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d83e897c-393a-4a14-b8ea-c02d2501ab5a" name="Changes" comment="add step_34.js">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d83e897c-393a-4a14-b8ea-c02d2501ab5a" name="Changes" comment="add step_35.js">
+      <change afterPath="$PROJECT_DIR$/building_pyr_generator/step_36.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +87,7 @@
       <workItem from="1767434754970" duration="2484000" />
       <workItem from="1767613353423" duration="3143000" />
       <workItem from="1767710945785" duration="5961000" />
+      <workItem from="1767738517951" duration="90000" />
     </task>
     <task id="LOCAL-00001" summary="changed README.md">
       <option name="closed" value="true" />
@@ -304,14 +305,21 @@
       <option name="project" value="LOCAL" />
       <updated>1767718547557</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="add step_35.js">
+      <option name="closed" value="true" />
+      <created>1767738558040</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1767738558041</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add variable.js" />
     <MESSAGE value="delete deleted everything except README.md" />
     <MESSAGE value="add exercise_thirteen.js" />
     <MESSAGE value="add exercise_thirteen.js and delete workspace.xml" />
@@ -336,6 +344,7 @@
     <MESSAGE value="add step_32.js" />
     <MESSAGE value="add step_33.js" />
     <MESSAGE value="add step_34.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add step_34.js" />
+    <MESSAGE value="add step_35.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add step_35.js" />
   </component>
 </project>
