@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d83e897c-393a-4a14-b8ea-c02d2501ab5a" name="Changes" comment="add step_36.js">
-      <change afterPath="$PROJECT_DIR$/building_pyr_generator/step_37.js" afterDir="false" />
+    <list default="true" id="d83e897c-393a-4a14-b8ea-c02d2501ab5a" name="Changes" comment="add step_37.js">
+      <change afterPath="$PROJECT_DIR$/building_pyr_generator/step_38.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +88,7 @@
       <workItem from="1767613353423" duration="3143000" />
       <workItem from="1767710945785" duration="5961000" />
       <workItem from="1767738517951" duration="90000" />
-      <workItem from="1768071458055" duration="730000" />
+      <workItem from="1768071458055" duration="1110000" />
     </task>
     <task id="LOCAL-00001" summary="changed README.md">
       <option name="closed" value="true" />
@@ -322,14 +322,21 @@
       <option name="project" value="LOCAL" />
       <updated>1768071717150</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="add step_37.js">
+      <option name="closed" value="true" />
+      <created>1768072211949</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1768072211949</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add exercise_thirteen.js" />
     <MESSAGE value="add exercise_thirteen.js and delete workspace.xml" />
     <MESSAGE value="add step_14.js" />
     <MESSAGE value="add step_15.js" />
@@ -354,6 +361,7 @@
     <MESSAGE value="add step_34.js" />
     <MESSAGE value="add step_35.js" />
     <MESSAGE value="add step_36.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add step_36.js" />
+    <MESSAGE value="add step_37.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add step_37.js" />
   </component>
 </project>
