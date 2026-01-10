@@ -56,8 +56,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.step_22.js">
+  <component name="RunManager" selected="Node.js.step_45.js">
     <configuration name="step_22.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/building_pyr_generator/step_22.js" working-dir="$PROJECT_DIR$/building_pyr_generator">
+      <method v="2" />
+    </configuration>
+    <configuration name="step_45.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/building_pyr_generator/step_45.js" working-dir="$PROJECT_DIR$/building_pyr_generator">
       <method v="2" />
     </configuration>
     <configuration name="variables.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/introduction_to_JS/variables.js" working-dir="$PROJECT_DIR$/introduction_to_JS">
@@ -65,6 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.step_45.js" />
         <item itemvalue="Node.js.step_22.js" />
         <item itemvalue="Node.js.variables.js" />
       </list>
